@@ -1,7 +1,7 @@
 # DAX Cookbook
 [DAX Cookbook](https://www.packtpub.com/data/learn-power-bi), published by [Packt](https://www.packtpub.com/) 
 
-<img src="images/DAXCookbookSmall.jpg" />
+<img src="images/DAXCookbookSmall.jpg" /> 
 
 ## Learn 
 <ul><li>Understand how to create common calculations for dates, time, and duration</li>
